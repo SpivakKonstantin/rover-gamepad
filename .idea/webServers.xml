@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7dbf0e4b-b93b-4700-aed8-4795bb84e515" name="rover" url="http://192.168.1.9">
+        <fileTransfer host="192.168.1.9" port="220" rootFolder="/home/backend" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="220" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
